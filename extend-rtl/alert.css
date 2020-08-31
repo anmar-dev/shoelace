@@ -1,0 +1,4 @@
+html[dir="rtl"] sl-alert::part(icon) {
+    margin-left: 0;
+    margin-right: var(--sl-spacing-large);
+}
